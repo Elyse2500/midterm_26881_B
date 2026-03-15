@@ -2,7 +2,7 @@
 
 A REST API built with Spring Boot that manages student attendance records across multiple courses and campus locations.
 
-**Developer:** Patrick DUSHIMIMANA  
+**Developer:** Igihozo Elyse
 **University:** Adventist University of Central Africa (AUCA)  
 **Course:** Web Technology and Internet  
 
